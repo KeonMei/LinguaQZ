@@ -51,7 +51,7 @@ To run this project, you need:
 git clone https://github.com/USERNAME/LinguaQZ.git
 cd LinguaQZ
 ```
-2️⃣ Install Required Python Packages
+### 2️⃣ Install Required Python Packages
 
 Open a terminal or PowerShell in the project directory and run:
 
@@ -61,7 +61,7 @@ pip install flask flask-cors transformers torch sentencepiece
 ⚠️ Note:
 On the first launch, the translation model will be downloaded automatically. This may take several minutes depending on your internet speed.
 
-3️⃣ Start the Server
+### 3️⃣ Start the Server
 
 Run the following command in the project directory:
 
@@ -73,7 +73,7 @@ Running on http://127.0.0.1:5000
 
 ⚠️ Do not close this terminal window while using the application.
 
-4️⃣ Open the Web Interface
+### 4️⃣ Open the Web Interface
 
 Open the index.html file using one of the following methods:
 
@@ -85,7 +85,7 @@ Or open the file through a local server, for example:
 
 http://localhost:5500
 
-🧪 How to Use
+### 🧪 How to Use
 
 Enter Russian text into the left input field
 
@@ -105,7 +105,7 @@ The Flask server must be running for the translation to work
 
 GitHub Pages can display the interface but cannot run the backend
 
-🌐 About GitHub Pages
+### 🌐 About GitHub Pages
 
 Since this project uses a Python backend:
 
@@ -115,7 +115,7 @@ Since this project uses a Python backend:
 
 ✅ The backend must be run locally or on a separate server
 
-🎓 Academic Disclaimer
+### 🎓 Academic Disclaimer
 
 This project was created for educational purposes to demonstrate:
 
