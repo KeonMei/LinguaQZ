@@ -24,11 +24,11 @@ The model is executed locally on the server side and processes text requests sen
 
 ## 📁 Project Structure
 
-LinguaQZ/
-├── index.html # Web interface
-├── style.css # Visual styling
-├── script.js # Client-side logic
-├── server.py # Flask server (translation backend)
+LinguaQZ/                                                                                                                                                                                                                                                   
+├── index.html # Web interface                                                                                                                                                                                                    
+├── style.css # Visual styling                                                                                                                                                                                                                        
+├── script.js # Client-side logic                                                                                                                                                                                                                        
+├── server.py # Flask server (translation backend)                                                                                                                                                                                             
 └── README.md # Project documentation
 
 ---
