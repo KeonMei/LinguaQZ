@@ -9,7 +9,7 @@ async function translateAI(text) {
     status.innerText = "AI аударылып жатыр...";
 
     try {
-        const response = await fetch("http://127.0.0.1:5000/translate", {
+        const response = await fetch("https://pulpless-nonhedonically-numbers.ngrok-free.dev/translate", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
